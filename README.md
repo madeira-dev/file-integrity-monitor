@@ -1,1 +1,1 @@
-# file-integrity-monitor
+Simple file integrity monitor created as a cybersecurity project.
